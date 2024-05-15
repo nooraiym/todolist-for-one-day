@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nooraiym/todolist-for-one-day/static/css/main.46f73162.css",
+    "main.js": "/nooraiym/todolist-for-one-day/static/js/main.43365afe.js",
+    "index.html": "/nooraiym/todolist-for-one-day/index.html",
+    "main.46f73162.css.map": "/nooraiym/todolist-for-one-day/static/css/main.46f73162.css.map",
+    "main.43365afe.js.map": "/nooraiym/todolist-for-one-day/static/js/main.43365afe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46f73162.css",
+    "static/js/main.43365afe.js"
+  ]
+}
